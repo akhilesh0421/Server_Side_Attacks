@@ -9,6 +9,6 @@ Firstly, install metasploit if not installed using below command.
 <p align="center"><i>
   pt-get install vsftpd
   </i></p>
-Now start with starting the msfconsole with *msfconsole* command.
-</br>Once loaded give the command, *search vsftpd 2.3.4*
-<img alt="search vsftpd 2.3.4" src="https://westoahu.hawaii.edu/cyber/wp-content/uploads/2019/04/word-image-1.png">
+Now start with starting the msfconsole with <i>msfconsole</i> command.
+</br>Once loaded give the command, <i>search vsftpd 2.3.4</i>
+<p align="center"><img alt="search vsftpd 2.3.4" src="https://westoahu.hawaii.edu/cyber/wp-content/uploads/2019/04/word-image-1.png"/>
