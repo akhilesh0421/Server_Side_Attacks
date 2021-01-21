@@ -19,3 +19,8 @@ Firstly, install metasploit if not installed using below command.
 <p align="center"><img alt="show options" src="https://westoahu.hawaii.edu/cyber/wp-content/uploads/2019/04/word-image-3.png"></p>
 <b>Step-04</b> Using the IP address logged earlier from the Metasploitable 2 VM, run the command, <b><i>set rhosts “IP address from Metasploitable 2”</i></b>
 <p align="center"><img alt="set rhosts" src="https://westoahu.hawaii.edu/cyber/wp-content/uploads/2019/04/word-image-4.png"></p>
+<b>Step-04</b> Run the show options command to make sure the IP matches the Metasploitable 2 VM. If so, run the command <i><b>run</i></b>
+<p align="center"><img alt="run" src="https://westoahu.hawaii.edu/cyber/wp-content/uploads/2019/04/word-image-5.png"></p>
+
+**Note**
+</br>While exploiting this box with Metasploit was easy, it took away the core aspect of exploitation. In other words, using Metasploit only teaches you how to input data and press the right settings to exploit; a script kiddie. Like all tools it is important to understand what is happening before using an automated system.
