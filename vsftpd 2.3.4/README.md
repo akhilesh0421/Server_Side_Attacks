@@ -9,7 +9,7 @@ Firstly, install metasploit if not installed using below command.
 <p align="center"><i>
   pt-get install vsftpd
   </i></p>
-<b>Step-00</b> <p>Now start with starting the msfconsole with <i><b>msfconsole</i> command.</b></i></p>
+<p><b>Step-00</b> Now start with starting the msfconsole with <i><b>msfconsole</i> command.</b></i></p>
 <b>Step-01</b> Once loaded give the command, <i><b>search vsftpd 2.3.4</b></i>
 <p align="center"><img alt="search vsftpd 2.3.4" src="https://westoahu.hawaii.edu/cyber/wp-content/uploads/2019/04/word-image-1.png"></p>
 <b>Step-02</b> Using the desired exploit in this case select said exploit with command, <i><b>use exploit/unix/ftp/vsftpd_234_backdoor</b></i>
